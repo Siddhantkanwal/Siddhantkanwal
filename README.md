@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantkanwal&show_icons=true&locale=en&layout=compact" alt="siddhantkanwal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhantkanwal&show_icons=true&locale=en" alt="siddhantkanwal" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddhantkanwal&show_icons=true&locale=en" alt="siddhantkanwal" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
